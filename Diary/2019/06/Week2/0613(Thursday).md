@@ -28,3 +28,6 @@
 
 ##### 13:10-13:30
 > Edit the above text and submit it to Github!
+
+##### 13:30-14:00
+> I had a little problem pushing the project!
