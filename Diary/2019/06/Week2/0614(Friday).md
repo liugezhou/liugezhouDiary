@@ -10,3 +10,10 @@
 
 ##### 10:00--11:30
 > I spent an hour and a half to draw a pie chart ,I seached the API accroding to official documentation of Echarts and tried it many times.This made me realize that for Echarts,I still need to understand the basic API.
+
+##### 11:30-13:10
+> I had pot stickers for lunch And take a nap.
+
+##### 13:10-18:30
+> After painting today's development task -some static page, I thought about what to do after work and on weekends.
+> It was a boring afternoon.
