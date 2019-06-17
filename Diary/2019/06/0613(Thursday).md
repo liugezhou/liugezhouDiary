@@ -38,3 +38,5 @@
 > First modify the overall page by comparing the PSD diagrams.
 > Then draw a scale map of men and women through Canvas.
 > Once again familiar with the API about Canvas
+
+> A journey of a thousand miles begins with a single step!
