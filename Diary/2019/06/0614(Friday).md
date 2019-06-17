@@ -17,3 +17,5 @@
 ##### 13:10-18:30
 > After painting today's development task -some static page, I thought about what to do after work and on weekends.
 > It was a boring afternoon.
+
+> The fighting strength in the first drums is the highest!
