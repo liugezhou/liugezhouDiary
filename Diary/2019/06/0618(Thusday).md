@@ -13,4 +13,4 @@
 > How are we supposed to live!
 
 ####  Photo of the Day
-![词云](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/0618/ciyun.jpg)
+![词云](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/0618/ciyun.png)
