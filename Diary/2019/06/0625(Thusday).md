@@ -8,5 +8,5 @@
 ##  Daily Picture
 #### 今日工作
 ![work](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/2019/06/work0625.png)
-#### 我的桌面
+#### 今日桌面
 ![window](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/2019/06/window0625.png)
