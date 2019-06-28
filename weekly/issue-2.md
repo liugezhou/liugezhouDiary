@@ -2,7 +2,6 @@
 > 这里记录过去一周，我的收藏以及值得记录的资讯。
 ![life](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/2019/06/life0628.jpg)
 
->
 ## 新闻
 #### 街舞进入奥运会比赛项目
 > 当地时间25日，瑞士洛桑第134届国际奥委会全会发布消息，攀岩、`街舞`、滑板和冲浪将成为2024年巴黎奥运会的正式比赛项目。
@@ -22,15 +21,16 @@
 > 而对于我们大多数百姓来说，维权却依然很难，在国家健全法律制度的同时，我们要提高自己的法律意识，少刷微博、少刷抖音，多学习多研究，切实关注社会问题。
 
 ## 扩展
+#### PMP
+> PMP(Project Management Profession)指的是项目管理专业人士资格认证它是由美国项目管理协会（Project Management Institute(PMI)发起的，严格评估项目管理人员知识技能是否具有高品质的资格认证考试。其目的是为了给项目管理人员提供统一的行业标准。
+> 它包含五大过程组、十大知识领域、四十九个项目管理过程、一百三十二个工具与技术等。
+> PMP考试时间:一般为每年3月、6月、9月、12月,考试时间为4个小时 上午9：00-下午13：00。
+> PMP考试费：全国统一价，初考需要人民币3900元，重考需要人民币2500元。
+
 #### [小程序演变史--文章](https://mp.weixin.qq.com/s/Q3Dfrcf5FTmWUrsIkPWncA)
 > 从这篇文章中，我们能够鲜活地看到小程序的技术演进历程，以及对于所有开发者来说，终将去往何处。
 > [小程序演变史](https://mp.weixin.qq.com/s/Q3Dfrcf5FTmWUrsIkPWncA)
 > ![miniprogram](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/2019/06/miniprogram0626.png)
-
-#### PMP
-> PMP指的是项目管理专业人士资格认证。它是由美国项目管理协会（Project Management Institute(PMI)发起的，严格评估项目管理人员知识技能是否具有高品质的资格认证考试。它包含五个过程组、十个知识领域、四十多个过程、一百多个工具等。
-> PMP考试时间:一般为每年3月、6月、9月、12月,考试时间为4个小时 上午9：00-下午13：00。
-> PMP考试费：全国统一价，初考需要人民币3900元，重考需要人民币2500元。
 
 #### ["吐个槽"反馈平台](https://support.qq.com/products/64844?)
 > [腾讯CDC](https://baike.baidu.com/item/Tencent%20CDC)推出的工具，几行代码就可以为页面加入一个互动社区，可以接入应用程序、小程序、WEB、H5、微信公众号等各端。该小产品内容包括：【我们的故事】、【常见问题】、【吐槽内容】等。
