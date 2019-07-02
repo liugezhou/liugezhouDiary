@@ -24,10 +24,11 @@
 > + 买的两个Vue系列的视频，还在那放着没有咕隆。
 
 > 总之就是，这半年的目标几乎都没去做，当时只是过了过写文的痛快。
-> 那么，下半年的flag要接着立起来啊！
+> 当然，下半年的flag还是要接着立起来的！
+> 我已然成竹在胸，flag在我脑海里徘徊游走，Do EveryDay!
 
 ##  Daily Picture
-![windows](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/2019/06/windows0701.png)
+![windows](https://github.com/liugezhou/liugezhouImage/blob/master/Diary/2019/07/windows0701.png)
 
 
 
