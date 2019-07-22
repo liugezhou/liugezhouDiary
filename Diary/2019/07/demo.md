@@ -9,7 +9,6 @@
 |       |       |       |
 |       |       |       |
 
-## **Sumary**
+## **Record**
 >
 
-##  **Daily Picture**
