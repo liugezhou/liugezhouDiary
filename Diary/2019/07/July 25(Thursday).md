@@ -1,6 +1,6 @@
 ## **Daily Sentence**
-#### <u>**</u>
-> 
+#### <u>*Monday、Tuesday、Wednesday、Thursday、Friday、Saturday、Sunday</u>
+> 之前的周二跟周四两个单词写错了！Tuesday为周二、Thursday为周四。
 
 ## **Plan**
 |                          标签                           |        记录        | 评价  |
