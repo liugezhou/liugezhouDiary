@@ -14,4 +14,8 @@
 
 #### 切换DevTools面板：command + ]
 
+#### Chrome浏览器打开 开发者工具：option + command + i
 
+#### Chrome浏览器打开 javascript控制台：option + command + j
+
+#### Chrome浏览器打开 DOM选择：option + command + c
