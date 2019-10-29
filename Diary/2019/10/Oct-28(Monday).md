@@ -6,6 +6,7 @@
 >这里记录我的一天，需要去留意的事。
 
 > Vue面试题。
+> 统一下单。
 
 ## **Summary**
 | 标签  | 记录  | 评价  |
@@ -26,7 +27,7 @@
 > `<input :value="msg" @input="msg =$event.target.value">`
 
 #### 如何给vue定义全局方法
-> + 通过prototype、通过插件Vue.use(plugin)、通过mixin，Vue.mixin(minxins);
+> 通过prototype、通过插件Vue.use(plugin)、通过mixin，Vue.mixin(minxins);
 
 
 
