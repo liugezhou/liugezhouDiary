@@ -2,7 +2,7 @@
 #### <u>*The only sendible way to live in the world is without rules.Tonight ,you'ganna break your one rule*</u>
  
 
-## **Plan**
+## **Summary**
 > I'm not excited Today,I'm unhappy.
 
 > As a front-developer,I'm coding but End-code these days, You can imagine how bad I feel.
@@ -11,10 +11,10 @@
 
 > Learning can only be conscientions and steadfast.
 
-## **Summary**
+## **Graph**
 |                     标签                      |       记录       | 评价 |
 |:---------------------------------------------:|:----------------:|:----:|
 | I insist on writing English diaries every day | The fourth of day | ⭐⭐⭐  |
-|           浏览器渲染第一章第二节            |      |  ⭐  |
 
+> There ino record on Github about my git log.
 
