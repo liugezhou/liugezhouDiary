@@ -15,6 +15,6 @@
 |                     标签                      |       记录       | 评价 |
 |:---------------------------------------------:|:----------------:|:----:|
 | I insist on writing English diaries every day | The fourth of day | ⭐⭐⭐  |
-|           浏览器渲染第一章第二节            |   Keep Writing   |  ⭐⭐⭐  |
+|           浏览器渲染第一章第二节            |      |  ⭐  |
 
 
