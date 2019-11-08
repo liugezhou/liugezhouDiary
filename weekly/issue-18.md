@@ -19,3 +19,7 @@
 
 > 尝试：npm install 过程中竟然第一次遇到了墙，即使开着vpn也于是无补。查找资料：[electron快速入门笔记](https://www.jianshu.com/p/f134878af30f)，更换淘宝镜像，启动成功。
 ![效果展示](http://img.liugezhou.online/electron_lgz.png)
+
+#### [宏观视角下的浏览器](https://www.liugezhou.online/2019/11/03/%E5%AE%8F%E8%A7%82%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8/)
+> 【浏览器工作原理与实践】第一章节。    
+> 这一章的主要内容为：
