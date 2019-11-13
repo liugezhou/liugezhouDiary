@@ -44,6 +44,7 @@ npm install -g gulp
 npm install
 ```
 > Use one of the following to build and test: 
-| command | description |   
-| ------ | ------ |     
-| gulp local| #Build the compiler into built/local.|    
+> 
+> |command	|description	|   
+> |---|---| 
+> |gulp local|	#Build the compiler into built/local.|  
