@@ -2,6 +2,8 @@
 > 人生一世，草木一秋！
 
 # Content
+#### Nov 14,2019
++ [8. TypeScript入门教程](https://ts.xcatliu.com/)
 #### Nov 13,2019
 + [7. 使用VS Code时你应该熟记的一些操作](https://juejin.im/post/5cb87c6e6fb9a068a03af93a)
 #### Nov 4,2019
