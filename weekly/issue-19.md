@@ -28,7 +28,7 @@
 > 11 月 13 日，GitHub 年度开发者大会—GitHub Universe 2019 在美国旧金山举行。    
 > 为改善用户体验，GitHub 在本次大会上宣布推出移动端，即 GitHub App 。   
 > 目前，官方已经上线 iOS 版，不过，却是 beta（公测版），因此用户暂时无法通过 App Store 下载，可以通过官方渠道下载尝鲜。 
-> 但是，我等
+> ​但是我申请之后，等到现在还未见其庐山真面目，就像英雄联盟那会一样。
 
 #### Bytespider
 > [很多社区用户纷纷反馈，一种名为 Bytespider 的爬虫爬取他们的网站信息的频率太高，直接把网站搞瘫痪了。大家顺着爬虫的 IP 地址查了一下，发现 Bytespider 应该就是今日头条的搜索爬虫。]<sup>[来源](https://mp.weixin.qq.com/s/KXg8xAf_TOAROMhqJVQQBQ)</sup>  
