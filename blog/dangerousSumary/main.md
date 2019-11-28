@@ -2,6 +2,8 @@
 > 人生一世，草木一秋！
 
 # Content
+#### Nov 28,2019
++ [10.前端模块化：CommonJS,AMD,CMD,ES6.md](https://juejin.im/post/5aaa37c8f265da23945f365c)
 #### Nov 27,2019
 + [9. vconsole](https://github.com/Tencent/vConsole/blob/dev/doc/tutorial_CN.md)
 #### Nov 14,2019
