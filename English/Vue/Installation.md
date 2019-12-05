@@ -14,3 +14,5 @@
 > Simply download and include with a script tag. Vue wiil be registered as a global variable.   
 
 > Don't use the minified version during development.You will miss out on all the nice warnings for common mistakes.
+### CDN
+> For prototyping or learning
