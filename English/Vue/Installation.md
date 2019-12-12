@@ -93,4 +93,35 @@ $ npm install vue
 > + Compiler: code that is responsible for compiling template strings into JavaScript render functions. 
 > + Runtime: code that is responsible for creating Vue instances,rendering and patching virtual DOM,etc,Basically everything minus the compiler.    
 > + UMD: UMD builds can be used directly in the browser via a script tag .The default file from jsDelivr CDN at https://cdnjs.jsdelivr.net/npm/vue is the Runtime + Compiler UMD build vue.js). 
-> + CommonJS: CommonJS build are intended for use with older bunlders like browserify and webpack1. The default file for there bundlers (pkg.min) is the Runtime only CommonJS build (vue.runtime.common.js)
+> + CommonJS: CommonJS build are intended for use with older bunlders like browserify and webpack1. The default file for there bundlers (pkg.min) is the Runtime only CommonJS build (vue.runtime.common.js)。  
+> + ES Module:staring in 2.6 Vue provides two ES Module (ESM) builds: 
+> 1. ESM for bundlers: intended for use with modern bundlers like webpack2 and Rollup. ESM format is designed to be statically analyzable so the bundlers can take advantage of that to perform "tree-shaking" and eliminate unused code from your final bundle.The default file for these bundles(pkg.module) is the Runtime only ES Module build(vue.runtime.esm.js). 
+> 2. ESM for browsers (2.6+only)"intended for direct imports in modern browsers via `<script type="module">`. 
+
+> + 完整版：同时包含编译器和运行时的版本。  
+> + 编译器：用来将模板字符串编译成为 JavaScript 渲染函数的代码。  
+> + 运行时：用来创建 Vue 实例、渲染并处理虚拟 DOM 等的代码。基本上就是除去编译器的其它一切. 
+> + UMD：UMD 版本可以通过 `<script>` 标签直接用在浏览器中。jsDelivr CDN 的 https://cdn.jsdelivr.net/npm/vue 默认文件就是运行时 + 编译器的 UMD 版本 (vue.js)。   
+ > + CommonJS：CommonJS 版本用来配合老的打包工具比如 Browserify 或 webpack 1。这些打包工具的默认文件 (pkg.main) 是只包含运行时的 CommonJS 版本 (vue.runtime.common.js)。    
+ > + ES Module：从 2.6 开始 Vue 会提供两个 ES Modules (ESM) 构建文件：  
+ > 1. 为打包工具提供的 ESM：为诸如 webpack 2 或 Rollup 提供的现代打包工具。ESM 格式被设计为可以被静态分析，所以打包工具可以利用这一点来进行“tree-shaking”并将用不到的代码排除出最终的包。为这些打包工具提供的默认文件 (pkg.module) 是只有运行时的 ES Module 构建 (vue.runtime.esm.js).  
+ > 2. 为浏览器提供的 ESM (2.6+)：用于在现代浏览器中通过 <script type="module"> 直接导入。
+
+ ### Runtime + Compiler VS Runtime-only
+ > If you need to compile templates on the client(e.g. passing a string to the template option. or mounting to an element using its in-DOM HTML as the template),you will need the compiler and thus the build:  
+ > ```
+ // this requires the compiler
+new Vue({
+  template: '<div>{{ hi }}</div>'
+})
+
+// this does not
+new Vue({
+  render (h) {
+    return h('div', this.hi)
+  }
+})
+>```
+
+ ### 运行时 + 编译器 vs. 只包含运行时
+ > 如果你需要在客户端编译模板 (比如传入一个字符串给 template 选项，或挂载到一个元素上并以其 DOM 内部的 HTML 作为模板)，就将需要加上编译器，即完整版：
