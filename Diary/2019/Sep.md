@@ -1,4 +1,4 @@
-## Sep-02,2019
+# Sep-02,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -32,7 +32,7 @@
 
 ---
 
-## Sep-03,2019
+# Sep-03,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -65,7 +65,7 @@
 </details>
 
 ---
-## Sep-04,2019
+# Sep-04,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -100,7 +100,7 @@
 
 ---
 
-## Sep-05,2019
+# Sep-05,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -145,7 +145,7 @@
 </details>
 
 ---
-## Sep-06,2019
+# Sep-06,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -213,7 +213,7 @@
 
 ---
 
-## Sep-09,2019
+# Sep-09,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -242,7 +242,7 @@
 </details>
 
 ---
-## Sep-10,2019
+# Sep-10,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -270,7 +270,7 @@
 
 ---
 
-## Sep-11,2019
+# Sep-11,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -292,7 +292,7 @@
 </details>
 
 ---
-## Sep-12,2019
+# Sep-12,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -317,7 +317,7 @@
 
 ---
 
-## Sep-16,2019
+# Sep-16,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -344,7 +344,7 @@
 </details>
 
 ---
-## Sep-17,2019
+# Sep-17,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -364,7 +364,7 @@
 
 ---
 
-## Sep-18,2019
+# Sep-18,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -402,7 +402,7 @@
 </details>
 
 ---
-## Sep-19,2019
+# Sep-19,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -428,7 +428,7 @@
 
 ---
 
-## Sep-20,2019
+# Sep-20,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -460,7 +460,7 @@
 </details>
 
 ---
-## Sep-21,2019
+# Sep-21,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -485,7 +485,7 @@
 
 ---
 
-## Sep-23,2019
+# Sep-23,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -518,7 +518,7 @@
 </details>
 
 ---
-## Sep-24,2019
+# Sep-24,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -547,7 +547,7 @@
 
 ---
 
-## Sep-25,2019
+# Sep-25,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -578,7 +578,7 @@
 </details>
 
 ---
-## Sep-26,2019
+# Sep-26,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -619,7 +619,7 @@
 
 ---
 
-## Sep-27,2019
+# Sep-27,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -645,7 +645,7 @@
 
 ---
 
-## Sep-29,2019
+# Sep-29,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -695,7 +695,7 @@
 
 ---
 
-## Sep-30,2019
+# Sep-30,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>

@@ -38,7 +38,3 @@
 >   import Bscroll from 'better-scroll'
 >   ……………………
 >   this.scroll = new Bscroll(this.$refs.mainwapper)----mounted中
-
-
-
-
