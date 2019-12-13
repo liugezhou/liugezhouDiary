@@ -1,6 +1,5 @@
 ## **Daily Sentence**
 #### <u>*Victory wonn't come to me unless I go to it.*</u>
- 
 
 ## **Plan**
 > Today is a very good day. 
