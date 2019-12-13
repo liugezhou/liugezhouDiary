@@ -12,5 +12,3 @@
 
 ## **Summary**
 > I wasted another good day!
-
-
