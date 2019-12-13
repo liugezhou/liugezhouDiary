@@ -1,4 +1,4 @@
-## Nov-01,2019
+# Nov-01,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -18,7 +18,7 @@
 
 ---
 
-## Nov-02,2019
+# Nov-02,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -54,7 +54,7 @@
 
 ---
 
-## Nov-03,2019
+# Nov-03,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -81,7 +81,7 @@
 
 ---
 
-## Nov-04,2019
+# Nov-04,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -114,7 +114,7 @@
 
 ---
 
-## Nov-05,2019
+# Nov-05,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -148,7 +148,7 @@
 
 ---
 
-## Nov-06,2019
+# Nov-06,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -173,7 +173,7 @@
 
 ---
 
-## Nov-07,2019
+# Nov-07,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -201,7 +201,7 @@
 
 ---
 
-## Nov-08,2019
+# Nov-08,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -224,7 +224,7 @@
 
 ---
 
-## Nov-10,2019
+# Nov-10,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -249,7 +249,7 @@
 
 ---
 
-## Nov-11,2019
+# Nov-11,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -271,7 +271,7 @@
 
 ---
 
-## Nov-12,2019
+# Nov-12,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -296,7 +296,7 @@
 
 ---
 
-## Nov-13,2019
+# Nov-13,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -356,7 +356,7 @@ npm install
 
 ---
 
-## Nov-14,2019
+# Nov-14,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -396,7 +396,7 @@ npm install
 
 ---
 
-## Nov-15,2019
+# Nov-15,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -444,7 +444,7 @@ npm install
 
 ---
 
-## Nov-16,2019
+# Nov-16,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -469,7 +469,7 @@ npm install
 
 ---
 
-## Nov-18,2019
+# Nov-18,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -535,7 +535,7 @@ new Vue({
 
 ---
 
-## Nov-19,2019
+# Nov-19,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -552,7 +552,7 @@ new Vue({
 
 ---
 
-## Nov-20,2019
+# Nov-20,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -571,7 +571,7 @@ new Vue({
 
 ---
 
-## Nov-21,2019
+# Nov-21,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -592,7 +592,7 @@ new Vue({
 
 ---
 
-## Nov-25,2019
+# Nov-25,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -616,7 +616,7 @@ new Vue({
 
 ---
 
-## Nov-26,2019
+# Nov-26,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -634,7 +634,7 @@ new Vue({
 
 ---
 
-## Nov-27,2019
+# Nov-27,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
@@ -660,7 +660,7 @@ new Vue({
 
 ---
 
-## Nov-28,2019
+# Nov-28,2019
 
 <details><summary><b>DETAILS</b></summary>
 <p>
