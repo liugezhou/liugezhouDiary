@@ -1005,7 +1005,6 @@ exports.main = async (event) => {
 #### 如何给vue定义全局方法
 > 通过prototype、通过插件Vue.use(plugin)、通过mixin，Vue.mixin(minxins);
 
-
 </p>
 </details>
 
