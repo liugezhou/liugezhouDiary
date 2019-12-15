@@ -1,8 +1,6 @@
 ## 每周总结第二十三期
 > 这里记录过去一周，我的一些小总结。
- ![weekly-22](http://img.liugezhou.online/20191206weekly.jpeg)
+ ![weekly-23](http://img.liugezhou.online/weekly23.jpeg)
 <!--more-->
 #### Feeling
-> 推出一个新产品很难，组建一个能够持续推出新产品的团队更难。    
-> 我最引以为傲的产品，就是苹果公司和我在苹果公司建立的团队。    
-> <cite>史蒂夫·乔布斯</cite>
+> 
