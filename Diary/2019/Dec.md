@@ -218,3 +218,16 @@
 
 </p>
 </details>
+---
+
+## Dec-18,2019
+<details><summary><b>DETAILS</b></summary>
+<p>
+
+### 周三
+> 浏览器安全。  
+
+> 开发环境与生产环境代码的不停更新、合并。
+
+</p>
+</details>
