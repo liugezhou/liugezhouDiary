@@ -5,6 +5,63 @@
 > 这里记录我从开始顶礼膜拜到不屑一顾的题、概念或者小知识。  
 
 ## Content
+##### 4.给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
+```
+示例 1:
+
+输入: "abcabcbb"
+输出: 3 
+解释: 因为无重复字符的最长子串是 "abc"，所以其长度为 3。
+```
+<details><summary><b>Answer</b></summary>
+<p>
+
+> Answer1:  
+```
+var str = "abcabcbb";
+var lengthOfLongestSubstring = function(s) {
+    var num=0,res=0;
+    let m='';
+    for(n of s ){
+        if(Object.is(m.indexOf(n),-1)){
+            m+=n;
+            num++;
+            res = res <num ? num : res;
+        }else{
+            m+=n;
+            m = m.slice(m.indexOf(n)+1);
+            num = m.length;
+        }
+    }
+    return res;
+};
+console.log(lengthOfLongestSubstring(str));
+```
+
+> Answer2:  
+```
+var str = "abcabcbb";
+var lengthOfLongestSubstring = function(s) {
+    var num=0,res=0;
+    let tempObject=[];
+    for(var i=0;i<s.length;i++){
+        if(Object.is(tempObject.indexOf(s[i]),-1)){
+            tempObject.push(s[i]);
+        }else{
+             tempObject.shift();
+             continue;
+        }
+        res = Math.max(res, tempObject.length);
+        num++;
+    }
+    return res;
+};
+console.log(lengthOfLongestSubstring(str));
+```
+
+</p>
+</details>
+
 ###### 3.给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。 
 ###### 如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。 
 ###### 您可以假设除了数字 0 之外，这两个数都不会以 0 开头.  
