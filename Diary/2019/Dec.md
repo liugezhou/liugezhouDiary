@@ -283,3 +283,24 @@
 
 </p>
 </details>
+
+---
+
+## Dec-25,2019
+<details><summary><b>DETAILS</b></summary>
+<p>
+
+### 周三
+> 这一年马上就要过去了。    
+
+## **Plan**
+> + Node.js后台项目完善、小程序对接。   
+> + 年终总结。
+
+## 专题
+> + Python学习。   
+> + LeetCode刷题。  
+
+> 人生苦短，我学Python。
+</p>
+</details>
