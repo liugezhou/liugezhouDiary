@@ -304,3 +304,16 @@
 > 人生苦短，我学Python。
 </p>
 </details>
+
+---
+
+## Dec-26,2019
+<details><summary><b>DETAILS</b></summary>
+<p>
+
+### 周四
+> 下午五点15分左右，去厕所墨鱼，发现公众号文章全部挂掉。    
+
+> 今天开始学习node相关的知识。
+</p>
+</details>
