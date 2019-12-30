@@ -317,3 +317,40 @@
 > 今天开始学习node相关的知识。
 </p>
 </details>
+
+---
+
+## Dec-27,2019
+<details><summary><b>DETAILS</b></summary>
+<p>
+
+### 周五
+> 今天学习一篇文章《node入门》，并且在Git上新建了一个仓库，用来记录这篇文章的学习。
+</p>
+</details>
+
+---
+
+## Dec-28,2019
+<details><summary><b>DETAILS</b></summary>
+<p>
+
+### 周六
+> 三哥、则睿晚上来我这小聚，aliya去找孟雨吃了串串。 
+> 本来我是决心一口酒也不喝的，但怎耐的住呢。    
+
+> 听着则睿跟老大一晚上的电话，加之三哥因为着急回去处理大话西游中帮派事物，饭局就这么结束了。    
+> 晚上aliya也去了孟雨那里，彻夜未归。
+</p>
+</details>
+
+---
+
+## Dec-30,2019
+<details><summary><b>DETAILS</b></summary>
+<p>
+
+### 周一
+> 今天是aliya的生日，祝她生日快乐，平安喜乐一生。
+</p>
+</details>
