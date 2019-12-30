@@ -37,6 +37,7 @@
 >   git init    
 >   git add .   
 >   git commit -m 'initial'
+>   后两步可以简写为：`git commit -a -m 'initial'`
 
 > + 第二种是从一个服务器克隆一个现有的 Git 仓库。
 >   git clone [url] (本地名字可选)
