@@ -12,6 +12,7 @@
 > 1. Github365天代码提交--Github官网小格格。  
 > 2. weekly之每周总结--公众号每周推送。 
 > 3. 英语百词斩的每日打卡--百词斩官网计时。 
+> 3. LeetCode刷题--LeetCode小格格。 
 
 #### Deep
 > Host a happy, unforgettable, deep wedding。
