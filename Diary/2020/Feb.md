@@ -29,3 +29,47 @@
 
 </p>
 </details>
+
+---
+
+# Feb-07,2020
+
+<details>
+<summary><b>DETAILS</b></summary>
+<p>
+
+> 周五。    
+> 当初开这个仓库的时候，心里想着每一天都能有所收获。    
+> 半年过去了，回望一下，收获不大，就像官僚主义、形式主义一样，走形式。分析一下原因是开始之初就没有想好自己的目标，没有追求，过程就不艰辛，结局就不明显。      
+> 当然，形式主义下还是有一些作为的，也有所收获。    
+>
+> 我把今天作为开年的第一天，也算是仪式下重整新面貌。    
+> 
+<details>
+<summary><b>BaiCiZhan</b></summary>
+<p>
+
+#### 1.phonetic [语音的]
+> Phonetic sysmbols help us to pronunce different word properly.
+
+#### 2.courier [快递员、通讯员、导游]
+> The job of a courier is to deliver the parcels.   
+
+#### 3.poise [使相等，使平衡 ｜ 泰然自若，信心]
+> We were all impressed by her poise and confidence.
+
+#### 4.linger [逗留，留恋]
+> The strong scent of her perfume lingered long after she left the room.    
+
+#### 5.ratio [比率，比例]
+> Thr ratio of boys to girls is about 2 to 1.
+
+#### 6.counsel [律师、法律顾问、忠告，劝告、建议]
+> If the police arrest you,you should find a legal counsel.
+
+#### 7.slander [讲坏话、污蔑、诽谤 ｜ 诽谤、诋毁]
+> The actress was slandered by people for her social media post.
+</p>
+</details>
+</p>
+</details>
