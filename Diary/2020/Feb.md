@@ -73,3 +73,56 @@
 </details>
 </p>
 </details>
+
+---
+
+# Feb-08,2020
+
+<details>
+<summary><b>DETAILS</b></summary>
+<p>
+
+> 周六。    
+> 
+<details>
+<summary><b>BaiCiZhan</b></summary>
+<p>
+
+#### 1.naked[裸体的，无遮掩的]
+> The naked baby is crawling and smiling on the floor.
+
+#### 2.carton [尤指食品和液体的硬纸盒、纸板箱、塑料箱]
+> Drinking a carton of milk per day is good for you health
+
+#### 3.exterior [外貌，外观；位于外边的]
+> The building's exterior is beautiful.
+
+#### 4.ceased [停止、结束]
+> The rain ceased and the rainbow is showed up.
+
+#### 5.flabby [肌肉松软的，意志薄弱的]
+> As I'm getting older,my arms are getting more and more flabby.
+
+#### 6.scrape [擦伤；刮，擦]
+> I can deal with the scrape on my knee by myself.
+
+#### 7.vehicle [交通工具、机动车]
+> The vehicle drives off while carring a container.
+
+#### 8.stick up [竖起]
+> When you stick up your thumb,you mean that you approve.
+
+#### 9.ownership [所有权]
+> The couple have the certificate to prove their ownership of this house.
+
+#### 10.remnant [遗迹、边角省料]
+> The remnant of Yuanmingyuan becomes a tourist attraction today.
+
+#### 11.extravagant [奢侈的，无节制的]
+> Buying too much clothes for a vacation is extravegant.
+
+#### 12.
+</p>
+</details>
+</p>
+</details>
