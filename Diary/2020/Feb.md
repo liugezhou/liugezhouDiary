@@ -121,7 +121,49 @@
 #### 11.extravagant [奢侈的，无节制的]
 > Buying too much clothes for a vacation is extravegant.
 
-#### 12.
+</p>
+</details>
+</p>
+</details>
+
+
+---
+
+# Feb-08,2020
+
+<details>
+<summary><b>DETAILS</b></summary>
+<p>
+
+> 周六。    
+> 
+<details>
+<summary><b>BaiCiZhan</b></summary>
+<p>
+
+#### 1.on no account [决不]
+> On no account should you give up your goals.
+
+#### 2.jagged [锯齿状的，参差不齐的]
+> The edges of this kind of leaf are jagged.
+
+#### 3.sparse [稀少的、稀疏的]
+> The desert's vegetation is sparse,there are hardly any plants here at all.
+
+####  4.porch [门廊，走廊]
+> I love to sit on the front porch and feel the wind.
+
+#### 5.intrigue [阴谋，轨迹；密谋，欺骗；引起极大的兴趣]
+> An evil intrigue suddenly comes to his mind.
+
+#### 6.reclaim [取回、开拓、开垦；废物回收利用]
+> Many years later,he recliamed the treature he had buried.
+
+#### 7.essential [必不可少的，必要的；本质的，重要的；基本的；必需品]
+> Hot pot and Mahjong are essential components of Sichuan culture.
+
+#### 8.mutual [互相的，共同的]
+> Good communication can build a bridge of mutual understanding.
 </p>
 </details>
 </p>
