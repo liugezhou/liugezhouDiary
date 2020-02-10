@@ -126,16 +126,15 @@
 </p>
 </details>
 
-
 ---
 
-# Feb-08,2020
+# Feb-09,2020
 
 <details>
 <summary><b>DETAILS</b></summary>
 <p>
 
-> 周六。    
+> 周日。    
 > 
 <details>
 <summary><b>BaiCiZhan</b></summary>
@@ -164,6 +163,60 @@
 
 #### 8.mutual [互相的，共同的]
 > Good communication can build a bridge of mutual understanding.
+</p>
+</details>
+</p>
+</details>
+
+
+---
+
+# Feb-10,2020
+
+<details>
+<summary><b>DETAILS</b></summary>
+<p>
+
+> 周一。    
+> 
+<details>
+<summary><b>BaiCiZhan</b></summary>
+<p>
+
+#### 1.semblance [相似；外表，外貌]
+> You're a mere semblance of the real Superman!
+
+#### 2.magistrate [法官]
+> "Case closed!" shouted the magistrate as she slammed down the gavel.
+
+#### 3.vicinity [附近地区；近邻]
+> These houses are in the vicinity of the hospital.
+
+#### 4.pragmatic [实际的，注重实效的]
+> I don't need any fancy designs,I prefer my furniture to be more pragmatic.
+
+#### 5.lethal [致命的，致死的；致死因子]
+> A bite from this kind of snake is lethal!
+
+#### 6.tackle [对付，处理；(足球等比赛)阻截]
+> the repaiman is able to tackle any problems with his tools.
+
+#### 7.imitates[模仿]
+> The boy imitates his father by shaving the mirror.    
+
+#### 8.bibliography [参考书目；文献学]
+> The bibliography is located at the end of the paper.
+
+#### 9.maiden [(文学)少女，未嫁女子；未婚的，处女的，初次的]
+> There is a beautiful maiden sitting in the castle garden.
+
+#### 10.grumble [发牢骚；抱怨，怨言]
+> My mom always grumbles about the mess as she cleans my room;
+
+#### 11.janitor [清洁工，看门人]
+> This school building is taken care by janitors.
+
+
 </p>
 </details>
 </p>
