@@ -168,7 +168,6 @@
 </p>
 </details>
 
-
 ---
 
 # Feb-10,2020
@@ -215,6 +214,53 @@
 
 #### 11.janitor [清洁工，看门人]
 > This school building is taken care by janitors.
+
+
+</p>
+</details>
+</p>
+</details>
+
+
+
+---
+
+# Feb-15,2020
+
+<details>
+<summary><b>DETAILS</b></summary>
+<p>
+
+> 周六。    
+> 
+<details>
+<summary><b>BaiCiZhan</b></summary>
+<p>
+
+#### 1.grieve [伤心，悲痛；使悲伤，使伤心]
+> She's been grieving ever since her husband died.
+
+#### 2.deadlock [僵局；不分胜负；使僵持不下；僵持]
+> Talks between the two sides ended in deadlock.
+
+#### 3.tournament [锦标赛，联赛]
+> A tournament is a sports competition which continues until only the winner is left.
+
+#### 4.nurture [培植；养育，培育；营养物]
+> The plant needs to be carefully nurtured with water and fertilizer.
+
+#### 5.abridge [删节，删减]
+> He has been asked to abridge the whole page of his novel.
+
+#### 6. nautical [海上的；航海的]
+> That ship is one nautical mile away.
+
+#### 7.reticent [含蓄的；沉默不语的]
+> At first,she was highly reticent about going out with me.
+
+#### 8.pottery [陶艺；陶艺厂]
+> Pottery is one of my favorite hobbies.
+
 
 
 </p>
