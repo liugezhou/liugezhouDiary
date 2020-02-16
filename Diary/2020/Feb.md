@@ -261,8 +261,6 @@
 #### 8.pottery [陶艺；陶艺厂]
 > Pottery is one of my favorite hobbies.
 
-
-
 </p>
 </details>
 </p>
