@@ -7,7 +7,7 @@ tags: 每周分享
 ---
 > 本周是2020年的第七个周末。    
 > 这里记录过去一周，我的一些总结。
-![weekly-29](http://img.liugezhou.online/weekly29.png)
+![weekly-30](http://img.liugezhou.online/weekly30.png)
 
 <!--more-->
 ### Feeling  
