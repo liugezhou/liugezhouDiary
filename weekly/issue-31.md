@@ -8,14 +8,14 @@ tags: 每周分享
 > 本周是2020年的第八个周末。    
 > 这里记录过去一周，我的一些总结。
 
-![weekly-31](http://img.liugezhou.online/weekly30.png)
+![weekly-31](http://img.liugezhou.online/weekly31.jpeg)
 
 <!--more-->
 
 ### Feeling 
 > 读书与电影会扩展我们的生活半径,唯有读书人是最自由，唯有看电影人是最畅想。   
 > 看一部电影，读一本书都有身临其境、思想解放的感受。   
-> 而由于新时代下电影审查的严苛，读书便成为了另一个选择。    
+> 而由于新时代下电影审查的严苛，读书便成为了不二选择。    
 
 ### 指路明灯
 > 世界上最长的电视剧《指路明灯》，该剧最初该剧由ABS在1937年1月25日首次播出,于2009年9月播出最后一集，合计播出18262集，该剧从电台广播剧开始，已播放了72年。吉尼斯纪录称它是世界上最长的电视剧。
@@ -39,10 +39,10 @@ tags: 每周分享
 > 由http://jetbrains-license-server改为     
 > http://fls.jetbrains-agent.com    
 >
-> 若不是上述步骤，又看到了一篇过期激活教程：https://mp.weixin.qq.com/s/WwLSaNCHL7FeB2mOxNt2dw
+> 若不是以server的，又看到了一篇过期激活教程：https://mp.weixin.qq.com/s/WwLSaNCHL7FeB2mOxNt2dw
 
 ### https://www.npmjs.com/
-> 查看npm包基本信息，包括周下载量、版本号、证书类型、包大小、文件数量、Issues、仓库地址、包使用介绍等等。
+> npmjs网站用来查看npm包基本信息，包括周下载量、版本号、证书类型、包大小、文件数量、Issues、仓库地址、包使用介绍等等。
 
 ### 包管理工具  
 ![packagetools](http://img.liugezhou.online/blog%2Fpackagetools.png)
