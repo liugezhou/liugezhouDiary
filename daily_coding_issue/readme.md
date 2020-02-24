@@ -6,11 +6,49 @@
 
 ## Content
 
-##### 4.深拷贝
+
+##### 5.手写一个Promise加载图片
 
 <details><summary><b>Answer</b></summary>
 <p>
 
+```
+ const url = "https://img.liugezhou.online/blog/wechatDangerous.png";
+
+ function  loadImag(src) {
+     return new Promise((resolve,reject)=>{
+         const img = document.creatElement("img");
+         img.onload = ()=>{
+             resolve(img)
+         }
+         img.error = ()=> {
+             const err = new Error(`图片加载失败${src}`)
+             reject(err)
+         }
+     })
+ }
+ loadImg(url).then(img => {
+     console.log(img.width)
+     return img
+ }).then(img=>{
+     console.log(img.height)
+ }).catch(err =>{
+     conosle.log(err)
+ })
+```
+
+</p>
+</details>
+
+##### 4.深拷贝
+> 通过深拷贝，考察四个知识点：  
+> + typeof用来判断值类型。  
+> + instanceof用来判断一个对象是否为数组    
+> + hasOwnProperty():原型、原型链   
+> + 递归
+<details><summary><b>Answer</b></summary>
+<p>
+```
 const obj1 = {
     age:18,
     name:'xxx',
@@ -41,6 +79,7 @@ function deepClone(obj={}){
     }
     return result;
 }
+```
 </p>
 </detail>
 
@@ -96,6 +135,7 @@ var lengthOfLongestSubstring = function(s) {
     return res;
 };
 console.log(lengthOfLongestSubstring(str));
+
 ```
 
 </p>
