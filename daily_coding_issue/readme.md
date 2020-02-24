@@ -5,9 +5,41 @@
 > 这里记录我从开始顶礼膜拜到不屑一顾的题、概念或者小知识。  
 
 ## Content
+##### 8.
 
+##### 7.获取DOM节点、attribute与property等有关DOM
+<details>
+<summary><b>Answer</b></summary>
+<p>
 
-##### 5.手写一个Promise加载图片
+###### 获取DOM节点
+> const div1 = document.getElementById('div1')//元素
+> const divList = document.getElementByTagName('div') //集合
+> const containerList = document.getElementByClassName(".container')//  集合
+> const pList = document.querySelectorAll('p') // 集合
+###### property与attribute
+> property：修改对象属性，不会体现到html结构中。    
+> attribute:修改html属性，会改变html结构。
+###### 新增/插入节点
+```
+ const div1 = document.getElemengtById('div1)
+//添加新节点
+const p1 = docuemnt.createElement('p')
+p1.innerHTMl = 'this is p1'
+div1.appendChild(p)
+//移动已有节点。注意是移动
+const p2 = document.getElementById('div2')
+div1.appendChid(p2);
+//获取父元素
+p2.parentNodes
+//获取自元素列表
+p2.childNodes
+```
+
+</p>
+</details>
+
+##### 6.手写一个Promise加载图片
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -40,14 +72,16 @@
 </p>
 </details>
 
-##### 4.深拷贝
+##### 5.深拷贝
 > 通过深拷贝，考察四个知识点：  
 > + typeof用来判断值类型。  
 > + instanceof用来判断一个对象是否为数组    
 > + hasOwnProperty():原型、原型链   
 > + 递归
+
 <details><summary><b>Answer</b></summary>
 <p>
+
 ```
 const obj1 = {
     age:18,
@@ -84,6 +118,7 @@ function deepClone(obj={}){
 </detail>
 
 ##### 4.给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
+
 ```
 示例 1:
 
@@ -95,6 +130,7 @@ function deepClone(obj={}){
 <p>
 
 > Answer1:  
+
 ```
 var str = "abcabcbb";
 var lengthOfLongestSubstring = function(s) {
@@ -141,9 +177,10 @@ console.log(lengthOfLongestSubstring(str));
 </p>
 </details>
 
-###### 3.给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。 
-###### 如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。 
-###### 您可以假设除了数字 0 之外，这两个数都不会以 0 开头.  
+##### 3.LeetCode
+> 给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。   
+> 如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。    
+> 您可以假设除了数字 0 之外，这两个数都不会以 0 开头.  
 > 示例：
 >
 > 输入：(2 -> 4 -> 3) + (5 -> 6 -> 4)
@@ -167,7 +204,8 @@ addTwoNumbers(l1,l2);
 </p>
 </details>
 
-###### 2.[LeetCode]--给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。
+##### 2.[LeetCode]
+>  给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。
 > 示例:
 >
 > 给定 nums = [2, 7, 11, 15], target = 9    
@@ -176,7 +214,7 @@ addTwoNumbers(l1,l2);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer:直接给出写法
+###### Answer:直接给出写法
 ```
 const nums=[2,7,11,15],target=9;
 let twoSum = function(nums, target) {
@@ -208,7 +246,7 @@ console.log(twoSum(nums,target))
 </p>
 </details>
 
-###### 1. parseInt ｜ 以下代码会输出什么？
+##### 1. parseInt ｜ 以下代码会输出什么？
 
 ```
 'use strict';
@@ -224,7 +262,7 @@ console.log(r);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: [1,NaN,NaN]
+###### Answer: [1,NaN,NaN]
 > 具体解题思路：
 >
 > 我们先来看map的定义和用法：   
