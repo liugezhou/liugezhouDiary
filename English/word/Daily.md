@@ -46,7 +46,8 @@ tags: baicizhan
 ###### combustible [易燃的；易激动的；易燃物]
 > The combustible chemicals should be stored properly;
 
-
+###### cosmic [宇宙的；广大无边的]
+> Stars and planets form part of the cosmic system.
 </p>
 </details>
 
@@ -143,6 +144,9 @@ tags: baicizhan
 
 ###### latitude [纬度；（言论，行动的）自由]
 > The higher the latitude,the colder the temperature will be.
+
+###### levy [征收（税等）；征税，税款]
+> The government levies a tax on him for his personal income.
 </p>
 </details>
 
@@ -158,6 +162,9 @@ tags: baicizhan
 
 ###### make the best of a bad job [尽力把损失减少到最少]  
 > We made a mistake,but maybe we can make the best of a bad job and fix it soon
+
+###### make sb out to be [把……说成]
+> The colleagues make her out to be a bad person.
 </p>
 </details>
 
@@ -209,8 +216,14 @@ tags: baicizhan
 ###### roar [吼叫声，怒号声；轰鸣声]
 > The tiger let out a mighty roar on the cliff.
 
-######  reckless [鲁莽的，不计后果的]
+###### reckless [鲁莽的，不计后果的]
 > It is reckless for the driver to be driving while texting on the phone.
+
+###### rise to the occasion
+> The game was hard,but the boy rose to the occasion and won the game.
+
+###### retreat [撤退，撤离]
+> The troops were defeated and retreated from the battle.
 </p>
 </details>
 

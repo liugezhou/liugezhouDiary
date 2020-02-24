@@ -5,6 +5,45 @@
 > 这里记录我从开始顶礼膜拜到不屑一顾的题、概念或者小知识。  
 
 ## Content
+
+##### 4.深拷贝
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+const obj1 = {
+    age:18,
+    name:'xxx',
+    address: {
+        city:'beijing'
+    },
+    arr:['a','b','b']
+}
+
+const obj2 = deepClone(obj1);
+obj1.arr[0] ='c';
+obj2.address.city = 'shaghai';
+function deepClone(obj={}){
+    if(typeof obj !=='object' ||  obj == null) {
+        return obj;
+    }
+    let result;
+    if (obj instanceof Array){
+        result = [];
+    }else{
+        result = {}
+    }
+    for (let key in obj) {
+        if(obj.hasOwnProperty(key)){
+            //递归
+            result[key] = deepClone(obj[key]);
+        }
+    }
+    return result;
+}
+</p>
+</detail>
+
 ##### 4.给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
 ```
 示例 1:
