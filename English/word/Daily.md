@@ -84,6 +84,9 @@ tags: baicizhan
 
 ###### formulate [构想出计划、方法等]
 > He is fomulating a detailed plan for his trip.
+
+###### falter [摇摆，蹒跚，颤抖]
+> The toddler faltered foeward;he had just learned to walk.
 </p>
 </details>
 
@@ -111,6 +114,9 @@ tags: baicizhan
 <details>
 <summary><b>I</b></summary>
 <p>
+
+###### imminent [迫近的，紧迫的，即将来临的]
+> The bomb's detonation is imminent.
 </p>
 </details>
 
@@ -165,7 +171,11 @@ tags: baicizhan
 
 ###### make sb out to be [把……说成]
 > The colleagues make her out to be a bad person.
+
+###### masculine [男子气概的]
+> His beard and suit are masticuline enough to show his charm.
 </p>
+
 </details>
 
 ---
@@ -193,6 +203,11 @@ tags: baicizhan
 ###### perspire [出汗，流汗]
 > The two friends perspire from the heat.
 
+###### pull through [度过难关，恢复健康]
+> We beleive that optimistic woman will pull through.
+
+###### pension [养老金，抚恤金；廉租屋；发给……养老金]
+> After they retired,my grandparents received a pension every month.
 </p>
 </details>
 
@@ -224,6 +239,9 @@ tags: baicizhan
 
 ###### retreat [撤退，撤离]
 > The troops were defeated and retreated from the battle.
+
+###### referendum [全面投票，复决权]
+> A referendum requires all qualified citizens to vote.
 </p>
 </details>
 
@@ -241,6 +259,9 @@ tags: baicizhan
 
 ###### soar [高飞，翱翔；高飞越过]
 > It's wonderful to soar in the sky like a bird.
+
+###### suspence [悬疑；焦虑；悬念；令人挂心的；令人心焦的，产生悬念的]
+> At the end of the movie,viewers were left in a state of great suspence.
 </p>
 </details>
 
@@ -268,6 +289,9 @@ tags: baicizhan
 
 ###### vanquish [征服，击败]
 > The knight finally vanquished the dragon.
+
+###### verge [边缘，边界；接近，濒临]
+> The verge of the road is covered with lovely blue flowers. 
 </p>
 </details>
 
