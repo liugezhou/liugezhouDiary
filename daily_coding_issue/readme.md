@@ -35,7 +35,19 @@ p2.parentNodes
 //获取自元素列表
 p2.childNodes
 ```
-
+###### 将频繁操作改为一次性操作
+```
+ const listNode = documentGetElementById('list')
+ //创建一个文档片段，此时还没有插入到DOM树中
+ const frag = docuement.creatDocumentFragement()
+ //执行插入
+ for(let i=0;i<10;i++){
+     const li = docuement.createElement('li');
+     li.innerHTML = 'List item ' + i;
+     frag.appendChild(li)
+ }
+ listNode.appendChild(frag)
+```
 </p>
 </details>
 
