@@ -117,6 +117,9 @@ tags: baicizhan
 
 ###### imminent [迫近的，紧迫的，即将来临的]
 > The bomb's detonation is imminent.
+
+###### irritate [使烦躁；激怒；使难受]
+> This boy was completely irratated by the message from his friend.
 </p>
 </details>
 
@@ -128,6 +131,9 @@ tags: baicizhan
 
 ###### juvenile [青少年，雏鸟，幼稚的]
 > This group of juveniles are taking a selfie together.
+
+###### jungle [丛林，密林]
+> The boy explored through the jungle.
 </p>
 </details>
 
@@ -174,6 +180,9 @@ tags: baicizhan
 
 ###### masculine [男子气概的]
 > His beard and suit are masticuline enough to show his charm.
+
+###### mustache [鬓，胡须]
+> The mustache helps me to identify who this guy is. It's Charlie Chaplin!
 </p>
 
 </details>
