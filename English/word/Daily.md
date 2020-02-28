@@ -18,6 +18,12 @@ tags: baicizhan
 
 ###### avalanche [雪崩；大量而至；崩塌]
 > The avalanche buried the small cabin in the snow.
+
+###### at a loose end [不知做什么好]
+> He's at a loose end;he doesn't know which way to go.
+
+###### aisle [席位间的通道，过道]
+> The stewardess is waking down the aisle of the airplane.
 </p>
 </details>
 
@@ -145,6 +151,9 @@ tags: baicizhan
 <details>
 <summary><b>K</b></summary>
 <p>
+
+###### kindle [点燃，激起；着火；照亮；煽动]
+> The man needs to kindle the fire to stay warm.
 </p>
 </details>
 
@@ -220,6 +229,13 @@ tags: baicizhan
 
 ###### pension [养老金，抚恤金；廉租屋；发给……养老金]
 > After they retired,my grandparents received a pension every month.
+
+###### peril [危险]
+> The man faced the peril of falling off the cliff.
+
+###### practitioner [(医生或者律师等的)开业者；实践者，从事者]
+> A medical practitioner comfots the woman.
+
 </p>
 </details>
 
