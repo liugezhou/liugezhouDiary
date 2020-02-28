@@ -106,6 +106,9 @@ tags: baicizhan
 
 ###### headstrong [任性的，顽固的]
 > He is a headstrong boy who doesn't take on his parents' suggestions.
+
+###### heir [继承者；后继者]
+> The babt is the heir of his family.
 </p>
 </details>
 
@@ -279,6 +282,9 @@ tags: baicizhan
 <details>
 <summary><b>T</b></summary>
 <p>
+
+###### torture [对……施以酷刑，拷问，折磨；]
+> My friend tortured us with her terrible singing.
 </p>
 </details>
 
