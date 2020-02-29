@@ -54,6 +54,9 @@ tags: baicizhan
 
 ###### cosmic [宇宙的；广大无边的]
 > Stars and planets form part of the cosmic system.
+
+######  compensate [补偿，赔偿，给……报酬]
+> He should be compenstaed for his work-related injury.
 </p>
 </details>
 
@@ -68,6 +71,9 @@ tags: baicizhan
 
 ###### dwarf [侏儒；唉生物或发育不全的]
 > The seven Dwarves were happy when staying with Snow White.
+
+###### delicate [易碎的，易坏的，脆弱的]
+> Porcelain cups are very delicate;do not drop them!
 </p>
 </details>
 
@@ -171,6 +177,9 @@ tags: baicizhan
 
 ###### levy [征收（税等）；征税，税款]
 > The government levies a tax on him for his personal income.
+
+###### livestock [家畜，牲畜]
+> The livestock provide farmers with meat,milk and wool.
 </p>
 </details>
 
@@ -179,7 +188,6 @@ tags: baicizhan
 <details>
 <summary><b>M</b></summary>
 <p>
-
 
 ###### misappropriate [滥用，误用]
 > He is misappropriting money from the company.
@@ -195,6 +203,9 @@ tags: baicizhan
 
 ###### mustache [鬓，胡须]
 > The mustache helps me to identify who this guy is. It's Charlie Chaplin!
+
+###### marvelous [叹为观止的，令人惊奇的；非凡的]
+> "It is the most marvelous fireworks show!" the girl exclaimed.
 </p>
 
 </details>
@@ -236,6 +247,8 @@ tags: baicizhan
 ###### practitioner [(医生或者律师等的)开业者；实践者，从事者]
 > A medical practitioner comfots the woman.
 
+###### pretentious [自命不凡的，做作的，炫耀的]
+> Get that pretentious look off your face!You're not cool!
 </p>
 </details>
 
@@ -270,6 +283,9 @@ tags: baicizhan
 
 ###### referendum [全面投票，复决权]
 > A referendum requires all qualified citizens to vote.
+
+###### realm [领域；国土]
+> The woman was stepping into a fairy and dreamy realm.
 </p>
 </details>
 
@@ -309,6 +325,9 @@ tags: baicizhan
 <details>
 <summary><b>U</b></summary>
 <p>
+
+###### ultimatum [最后通牒]
+> Me teacher give me an ultimatum:hand in your homework todat,or get a zero.
 </p>
 </details>
 
