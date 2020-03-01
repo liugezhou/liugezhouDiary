@@ -57,6 +57,9 @@ tags: baicizhan
 
 ######  compensate [补偿，赔偿，给……报酬]
 > He should be compenstaed for his work-related injury.
+
+###### commontion [骚动，动乱]
+> All the elephants are running and causing a big commotion.
 </p>
 </details>
 
@@ -249,6 +252,10 @@ tags: baicizhan
 
 ###### pretentious [自命不凡的，做作的，炫耀的]
 > Get that pretentious look off your face!You're not cool!
+
+###### postmortem [验尸，尸体解剖]
+> He is doing a postmortem of the crocodile.
+
 </p>
 </details>
 
