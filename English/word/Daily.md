@@ -102,6 +102,9 @@ tags: baicizhan
 
 ###### falter [摇摆，蹒跚，颤抖]
 > The toddler faltered foeward;he had just learned to walk.
+
+###### fruition [最后实现，实现，取得成功]
+> Her weight loss plan finally came to fruition.
 </p>
 </details>
 
@@ -110,6 +113,9 @@ tags: baicizhan
 <details>
 <summary><b>G</b></summary>
 <p>
+
+###### gauge [测量仪；尺度，标准；估计，判断；计量]
+> We get to know how fast we are from the speed gauge.
 </p>
 </details>
 
@@ -335,6 +341,9 @@ tags: baicizhan
 
 ###### ultimatum [最后通牒]
 > Me teacher give me an ultimatum:hand in your homework todat,or get a zero.
+
+###### ultraviolet [紫外线的；紫外线]
+> My hat pretected me from the dangerous ultraviolet rays.
 </p>
 </details>
 
