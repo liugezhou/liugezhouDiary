@@ -24,6 +24,12 @@ tags: baicizhan
 
 ###### aisle [席位间的通道，过道]
 > The stewardess is waking down the aisle of the airplane.
+
+###### agitation [焦虑、忧虑；摇动]
+> Apparently she is in a state of agitation.
+
+###### assassination [暗杀]
+> The weapon used for the assassination was a bow and arrow.
 </p>
 </details>
 
@@ -39,6 +45,8 @@ tags: baicizhan
 ###### bully [持强凌弱者、欺负]
 > The school bully is always giving other kids a hard time.
 
+###### brittle [易碎的；脆弱的；靠不住的]
+> The win glass looks brittle,Use it carefully.
 
 </p>
 </details>
@@ -130,6 +138,9 @@ tags: baicizhan
 
 ###### heir [继承者；后继者]
 > The babt is the heir of his family.
+
+###### haphzard [胡乱的，随意的]
+> My son's haphazard behavior makes the toom in a mess.
 </p>
 </details>
 
@@ -144,6 +155,9 @@ tags: baicizhan
 
 ###### irritate [使烦躁；激怒；使难受]
 > This boy was completely irratated by the message from his friend.
+
+###### invariably [不变地，永恒的；总是]
+> The moon invariably orbits the Earth.
 </p>
 </details>
 
@@ -232,6 +246,9 @@ tags: baicizhan
 <details>
 <summary><b>O</b></summary>
 <p>
+
+###### oust [罢免、驱逐，剥夺，取代]
+> The traitor was ousted from the group.
 </p>
 </details>
 
