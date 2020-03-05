@@ -20,3 +20,7 @@ tags: 每周分享
 
 #### [nprogress](https://github.com/rstacruz/nprogress)
 > 👆一个超轻量进度条的开源库，许多大型项目有用。
+
+#### node项目基础第三方包
+> 搭建一个node后端项目编写接口的时候，有一些基础第三包可做基础项目的应用：  
+> express、mysql、body-parser、boom、express-jwt、jsonwentoken、express-validator、crypto、cors等。
