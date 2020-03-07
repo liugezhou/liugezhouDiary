@@ -30,6 +30,9 @@ tags: baicizhan
 
 ###### assassination [暗杀]
 > The weapon used for the assassination was a bow and arrow.
+
+###### Arctic [北极的，极寒的；北极]
+> Polar bears only live in Arctic areas;you cant't find them further south.
 </p>
 </details>
 
@@ -229,6 +232,9 @@ tags: baicizhan
 
 ###### marvelous [叹为观止的，令人惊奇的；非凡的]
 > "It is the most marvelous fireworks show!" the girl exclaimed.
+
+###### mildew [使发霉；发霉，长霉]
+> Ewwww,that orange is covered in mildew! I don't want it!
 </p>
 
 </details>
@@ -279,6 +285,9 @@ tags: baicizhan
 ###### postmortem [验尸，尸体解剖]
 > He is doing a postmortem of the crocodile.
 
+###### postpone [延迟、推迟、延缓]
+> I had to postpone the meeting until later.
+
 </p>
 </details>
 
@@ -298,6 +307,9 @@ tags: baicizhan
 
 ###### reckon with sb [将……加以考虑，认真对待]
 > The father reckon with his son in a game of chess;he usually wins.    
+
+###### reckon on [计划]
+> She reckons on being the Olympic champion in 2020.
 
 ###### roar [吼叫声，怒号声；轰鸣声]
 > The tiger let out a mighty roar on the cliff.
@@ -347,6 +359,9 @@ tags: baicizhan
 
 ###### torture [对……施以酷刑，拷问，折磨；]
 > My friend tortured us with her terrible singing.
+
+###### toddle [蹒跚学步]
+> The baby has just learn to toddle,so he walks unsteadily.
 </p>
 </details>
 
@@ -361,6 +376,9 @@ tags: baicizhan
 
 ###### ultraviolet [紫外线的；紫外线]
 > My hat pretected me from the dangerous ultraviolet rays.
+
+###### underestimate [低估；对……估计不足]
+> The boxer underestimate the strength of his opponent.
 </p>
 </details>
 
