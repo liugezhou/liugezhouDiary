@@ -71,6 +71,15 @@ tags: baicizhan
 
 ###### commontion [骚动，动乱]
 > All the elephants are running and causing a big commotion.
+
+###### chapel [小教堂；私人祈祷室]
+> Christians will ofen go to a chapel to pray to god.
+
+###### condemn [谴责，责备]
+> The dog is condemned for its bad behavior.
+
+###### conspiracy [密谋，阴谋]
+> Their conspiracy is to assassinate the king.
 </p>
 </details>
 
@@ -88,6 +97,12 @@ tags: baicizhan
 
 ###### delicate [易碎的，易坏的，脆弱的]
 > Porcelain cups are very delicate;do not drop them!
+
+###### diploma [毕业文凭，毕业证书]
+> After four years of hard work,I finally got my college diploma.
+
+###### drawback [缺点；障碍，不利条件]
+> His short arms are his biggest drawback;he's struggling to reach the toilet paper!
 </p>
 </details>
 
@@ -288,6 +303,8 @@ tags: baicizhan
 ###### postpone [延迟、推迟、延缓]
 > I had to postpone the meeting until later.
 
+###### prodigious [巨大的；异常的，奇妙的]
+> The forest is full of prodigious trees.
 </p>
 </details>
 
