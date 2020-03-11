@@ -80,6 +80,9 @@ tags: baicizhan
 
 ###### conspiracy [密谋，阴谋]
 > Their conspiracy is to assassinate the king.
+
+###### coward [懦夫，胆小鬼；懦弱的，胆怯的]
+> Don't act like a coward - face it like a man!
 </p>
 </details>
 
@@ -270,6 +273,9 @@ tags: baicizhan
 
 ###### oust [罢免、驱逐，剥夺，取代]
 > The traitor was ousted from the group.
+
+###### obnoxious [非常讨厌的]
+> I'll get that obnoxious mostquito before ge gets me!
 </p>
 </details>
 
