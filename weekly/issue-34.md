@@ -8,7 +8,7 @@ tags: 每周分享
 > 本周是2020年的第十一个周末。    
 > 这里记录过去一周，我的一些总结。
 
-![weekly-33](http://img.liugezhou.online/blog/weekly33.jpg)
+![weekly-34](http://img.liugezhou.online/blog/weekly34.jpeg)
 
 <!--more-->
 
