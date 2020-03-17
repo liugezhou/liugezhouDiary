@@ -38,5 +38,12 @@ tags: 每周分享
 > | gg| move to the beginning of the first line|
 > | G| 	move to the beginning of the last line|
 
+#### [CentOS7安装MySQL数据库](https://help.aliyun.com/document_detail/116727.html?spm=5176.11065259.1996646101.searchclickresult.c3be2f1auy5Wbc)
+> 👆CentOS7上安装mysql数据库的文章特别特别的多，这篇阿里云文档给出的安装教程简单、清晰，可以快速在CentOS7上安装mysqk数据库、配置远程访问等。
+
+#### [CentOS升级git版本](https://www.cnblogs.com/Hi-blog/p/How-To-Update-Git-On-CentOS7.html)
+> 👆这篇文章总结的简单、易懂，可快速在CentOS上升级git版本。
+
+
 <!-- 鸡汤一句 -->
 #### End
