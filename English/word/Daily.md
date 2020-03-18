@@ -83,6 +83,12 @@ tags: baicizhan
 
 ###### coward [懦夫，胆小鬼；懦弱的，胆怯的]
 > Don't act like a coward - face it like a man!
+
+###### comprise [构成、包含、包括]
+> These animals comprise most of the cat family.
+
+###### clumsy [笨拙的、不灵活的；拙劣的，不得体的]
+> Why is there a clumsy elephant in the restaurant?
 </p>
 </details>
 
@@ -117,6 +123,10 @@ tags: baicizhan
 
 ###### envy [嫉妒，羡慕；妒忌的对象]
 > The little puppy envies the big dog who has a ball to play with.
+
+###### exacerbate [加重，激怒]
+> Breathing in cigarette smoke exacerbate her cough.
+
 </p>
 </details>
 
@@ -371,6 +381,9 @@ tags: baicizhan
 
 ###### suspence [悬疑；焦虑；悬念；令人挂心的；令人心焦的，产生悬念的]
 > At the end of the movie,viewers were left in a state of great suspence.
+
+###### solidarity [团结一致]
+> We show our solidarity by comming together into a circle.
 </p>
 </details>
 

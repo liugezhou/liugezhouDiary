@@ -291,7 +291,7 @@ console.log(r);
 > 然后查看上述代码 arr.map(parseInt),我们知道这里表示的是： 
 > ```
 > arr.map(function(currentValue,index,arr){
->    parseInt(currentValue,index.arr)
+>    parseInt(currentValue,index,arr)
 > })
 > ```
 > parseInt需要两个参数，会将arr参数忽略掉，因此，最终的处理过程是：           
