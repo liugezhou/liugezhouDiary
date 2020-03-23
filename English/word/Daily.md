@@ -89,6 +89,10 @@ tags: baicizhan
 
 ###### clumsy [笨拙的、不灵活的；拙劣的，不得体的]
 > Why is there a clumsy elephant in the restaurant?
+
+###### cynical [愤世嫉俗的；恶意的]
+> With that cynical outlook,he feels disappointed about the society.
+
 </p>
 </details>
 
@@ -321,6 +325,10 @@ tags: baicizhan
 
 ###### prodigious [巨大的；异常的，奇妙的]
 > The forest is full of prodigious trees.
+
+###### pompous [傲慢的，浮华的]
+> This pompous actress pays no attention to her fans.
+
 </p>
 </details>
 
@@ -415,6 +423,9 @@ tags: baicizhan
 
 ###### underestimate [低估；对……估计不足]
 > The boxer underestimate the strength of his opponent.
+
+###### unanimous [全体一致的，一致同意的]
+> There was unanimous agreement that we should do the business deal. 
 </p>
 </details>
 
@@ -461,5 +472,8 @@ tags: baicizhan
 <details>
 <summary><b>Z</b></summary>
 <p>
+
+###### zeal [热情，热心]
+> I can tell he is a soccer fanatic from the zeal he shows when watching the game.
 </p>
 </details>
