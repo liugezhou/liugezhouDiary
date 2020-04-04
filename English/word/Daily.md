@@ -93,6 +93,11 @@ tags: baicizhan
 ###### cynical [愤世嫉俗的；恶意的]
 > With that cynical outlook,he feels disappointed about the society.
 
+###### chaste [朴素的，贞洁的]
+> The monk lives a chaste and simple life.
+
+###### crust [外壳，面包皮，硬外皮]
+> Everytime I eat bread,I always leave the crust.
 </p>
 </details>
 
@@ -116,6 +121,9 @@ tags: baicizhan
 
 ###### drawback [缺点；障碍，不利条件]
 > His short arms are his biggest drawback;he's struggling to reach the toilet paper!
+
+###### devour [狼吞虎咽]
+> The breaded man is devouring a big burger.
 </p>
 </details>
 
@@ -289,7 +297,12 @@ tags: baicizhan
 > The traitor was ousted from the group.
 
 ###### obnoxious [非常讨厌的]
-> I'll get that obnoxious mostquito before ge gets me!
+> I'll get that obnoxious mostquito before he gets me!
+
+###### oriental [东方的；东方人]
+> Oriental counties each have ancient traditions and their own unique culture.
+
+
 </p>
 </details>
 
@@ -328,6 +341,9 @@ tags: baicizhan
 
 ###### pompous [傲慢的，浮华的]
 > This pompous actress pays no attention to her fans.
+
+###### preciptate [突如其来的，仓促的，寻迅猛的；使……沉淀，猛摔]
+> They did not expect the rain to be precipitate as quickly as it did.
 
 </p>
 </details>
@@ -369,6 +385,9 @@ tags: baicizhan
 
 ###### realm [领域；国土]
 > The woman was stepping into a fairy and dreamy realm.
+
+###### revence [收入；财政收入；国家的税收]
+> His revence comes from his online work.
 </p>
 </details>
 
@@ -381,7 +400,7 @@ tags: baicizhan
 ###### stationery [文具；信纸]
 > You can buy this nicely designed stationery from our online store.
 
-######  scissors [剪刀]
+###### scissors [剪刀]
 > There are two pairs of hairdressing scissors on the table.
 
 ###### soar [高飞，翱翔；高飞越过]
@@ -392,6 +411,12 @@ tags: baicizhan
 
 ###### solidarity [团结一致]
 > We show our solidarity by comming together into a circle.
+
+###### suspect [嫌疑犯，可疑分子；怀疑，猜疑，推测；可疑地]
+> The suspect is talking with his laywer.
+
+###### spiral [螺旋的]
+> Inside the building we can see a beautiful spiral staircase.
 </p>
 </details>
 
