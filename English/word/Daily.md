@@ -124,6 +124,9 @@ tags: baicizhan
 
 ###### devour [狼吞虎咽]
 > The breaded man is devouring a big burger.
+
+###### deputy [代理，代理人]
+> the deputy of the drug company is chatting with the doctors.
 </p>
 </details>
 
@@ -302,6 +305,8 @@ tags: baicizhan
 ###### oriental [东方的；东方人]
 > Oriental counties each have ancient traditions and their own unique culture.
 
+###### outright [直率的，痛快的；完全的，彻底的，全部地]
+> She rejected his proposal outright.
 
 </p>
 </details>
