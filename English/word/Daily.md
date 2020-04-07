@@ -142,6 +142,9 @@ tags: baicizhan
 ###### exacerbate [加重，激怒]
 > Breathing in cigarette smoke exacerbate her cough.
 
+###### eligible [适合被选中的，符合条件的]
+> In China,you are eligibel to get your driver licence as early as 18.
+
 </p>
 </details>
 
@@ -287,6 +290,9 @@ tags: baicizhan
 <details>
 <summary><b>N</b></summary>
 <p>
+
+###### not to say [并不是说]
+> The boy found the math book so difficult to comprehend,not to say dull.
 </p>
 </details>
 
@@ -350,6 +356,8 @@ tags: baicizhan
 ###### preciptate [突如其来的，仓促的，寻迅猛的；使……沉淀，猛摔]
 > They did not expect the rain to be precipitate as quickly as it did.
 
+###### partial [不完全的；偏爱的，特别喜欢的；偏袒的，不公平的]
+> The partial eclipse obscured less than half the moon's surface.
 </p>
 </details>
 
@@ -422,6 +430,9 @@ tags: baicizhan
 
 ###### spiral [螺旋的]
 > Inside the building we can see a beautiful spiral staircase.
+
+###### smuggle [走私]
+> he smuggled phones by hiding them underneath his coat.
 </p>
 </details>
 
@@ -436,6 +447,9 @@ tags: baicizhan
 
 ###### toddle [蹒跚学步]
 > The baby has just learn to toddle,so he walks unsteadily.
+
+###### tenancy [租赁]
+> I signed the tenancy agreement and received the house keys.
 </p>
 </details>
 
