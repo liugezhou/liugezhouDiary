@@ -33,6 +33,9 @@ tags: baicizhan
 
 ###### Arctic [北极的，极寒的；北极]
 > Polar bears only live in Arctic areas;you cant't find them further south.
+
+###### accessory [妇女的装饰品；附件；附属物‘同谋]
+> Some girls like various accessories,such as sunglasses,hats and lipsticks.
 </p>
 </details>
 
@@ -281,6 +284,12 @@ tags: baicizhan
 
 ###### mildew [使发霉；发霉，长霉]
 > Ewwww,that orange is covered in mildew! I don't want it!
+
+###### mercenary [惟利是图的；外国雇佣兵]
+> The mervenary is willing to fight a war for money.
+
+###### mulnutrition [营养不良的]
+> The woman suffering from mulnutrition is very weak.
 </p>
 
 </details>
@@ -293,6 +302,10 @@ tags: baicizhan
 
 ###### not to say [并不是说]
 > The boy found the math book so difficult to comprehend,not to say dull.
+
+###### nuisance [讨厌的人；麻烦事；伤害]
+> The boy who keeps pulling the girl's hair is really a nuisance!
+
 </p>
 </details>
 
@@ -313,6 +326,9 @@ tags: baicizhan
 
 ###### outright [直率的，痛快的；完全的，彻底的，全部地]
 > She rejected his proposal outright.
+
+###### be obsessed with [对……着迷；(指恐惧等)缠住]
+> Modern folks are totally  obessed with their phones.
 
 </p>
 </details>
@@ -433,6 +449,9 @@ tags: baicizhan
 
 ###### smuggle [走私]
 > he smuggled phones by hiding them underneath his coat.
+
+###### spontaneous [自发的，无意识的；自然的，天真率直的]
+> The father made a spontaneous decisions to take his family to the beach that day.
 </p>
 </details>
 
