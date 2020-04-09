@@ -101,6 +101,9 @@ tags: baicizhan
 
 ###### crust [外壳，面包皮，硬外皮]
 > Everytime I eat bread,I always leave the crust.
+
+###### canal [运河，河流]
+> This city has many canals running through it.
 </p>
 </details>
 
@@ -305,6 +308,9 @@ tags: baicizhan
 
 ###### nuisance [讨厌的人；麻烦事；伤害]
 > The boy who keeps pulling the girl's hair is really a nuisance!
+
+###### nausea [作呕，恶心]
+> I feel a little nausea today;maybe it was something I ate.
 
 </p>
 </details>
