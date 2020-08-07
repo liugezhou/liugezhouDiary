@@ -170,3 +170,36 @@ db.collection('books').aggregate()
 
 </p>
 </details>
+
+
+# Aug-05,2020  周三
+
+<details>
+<summary><b>今日目标</b></summary>
+<p>
+1.Just JavaScript第三四节学完，回顾第一二节。
+</p>
+</details>
+
+<details>
+<summary><b>今日复盘</b></summary>
+<p>
+1.Just JavaScript第三四节学完，且翻译完毕，第一二节未复习。
+</p>
+</details>
+
+# Aug-07,2020  周五
+
+<details>
+<summary><b>今日目标</b></summary>
+<p>
+1.Just JavaScript第五节学完。
+</p>
+</details>
+
+<details>
+<summary><b>今日复盘</b></summary>
+<p>
+
+</p>
+</details>
